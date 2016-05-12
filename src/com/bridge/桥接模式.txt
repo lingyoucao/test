@@ -1,0 +1,5 @@
+例子：
+
+客户端访问DriverManager，调用mysqlDriver 或者 oracleDriver实现数据库连接。
+
+mysqlDriver和oracleDriver实现同一个接口
